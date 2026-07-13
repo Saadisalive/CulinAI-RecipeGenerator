@@ -33,7 +33,7 @@ This project was built as a test project using **Bolt** to explore rapid AI appl
 
 **Try it here:**
 
-**https://culin-ai.bolt.new**
+**https://culin-ai.bolt.host**
 
 ---
 
